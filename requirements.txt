@@ -1,0 +1,5 @@
+streamlit
+simple-salesforce
+pandas
+transformers
+torch
